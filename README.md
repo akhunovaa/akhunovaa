@@ -24,7 +24,7 @@ I have experience in design and development of microservices-based application a
 
 ![Azat's A. Akhunov github stats](https://github-readme-stats.vercel.app/api?username=akhunovaa&show_icons=true&hide=issues&theme=nord)
 
-| ![Azat's A. Akhunov wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akhunovaa&hide_title=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhunovaa&hide=php&layout=compact)  | 
+| ![Azat's A. Akhunov wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akhunovaa&hide_title=true&theme=nord) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhunovaa&hide=php&layout=compact&theme=nord)  | 
 |:-:|:-:|
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=akhunovaa.akhunovaa)

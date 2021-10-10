@@ -12,19 +12,17 @@
 <a href="mailto:azat.akhunov@protonmail.com">
   <img align="left" alt="Azat's A. Akhunov Mail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/protonmail.svg" />
 </a>
-<br>
-<br>
-
-I have experience in design and development of microservices-based application architecture by using following technologies: **Java**, **Kafka**, **Spring**, **Docker**, **Kubernetes**. These skills are confirmed by extensive working and developing in a range of prior positions. I have a good experience in developing in ReactJS. This knowledge allows me effectively contribute my skills as Software Professional, possessing competent Technical Skills. I like to read, play on guitar, learn something new.
-
-<br>
-<br>
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="150px">
 
-![Azat's A. Akhunov github stats](https://github-readme-stats.vercel.app/api?username=akhunovaa&show_icons=true&hide=issues&theme=nord)
+<br>
+<br>
+I have experience in design and development of microservices-based application architecture by using following technologies: Java, Kafka, Spring, Docker, Kubernetes. These skills are confirmed by extensive working and developing in a range of prior positions. I have a good experience in developing in ReactJS. This knowledge allows me effectively contribute my skills as Software Professional, possessing competent Technical Skills. I like to read, play on guitar, learn something new.
 
-| ![Azat's A. Akhunov wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akhunovaa&hide_title=true&theme=nord) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhunovaa&hide=php&layout=compact&theme=nord)  | 
-|:-:|:-:|
+<br>
+<br>
+ 
+ 
+![Azat's A. Akhunov github stats](https://github-readme-stats.vercel.app/api?username=akhunovaa&show_icons=true&hide=issues&theme=nord)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=akhunovaa.akhunovaa)
